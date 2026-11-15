@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+  <rect width="720" height="440" rx="18" fill="#0d1117"/>
+  <g style="mix-blend-mode:screen">
+    <circle cx="275" cy="170" r="130" fill="#2f81f7" fill-opacity="0.42"/>
+    <circle cx="445" cy="170" r="130" fill="#a371f7" fill-opacity="0.42"/>
+    <circle cx="360" cy="300" r="130" fill="#3fb950" fill-opacity="0.42"/>
+  </g>
+  <text x="215" y="125" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">Business &amp;</text>
+  <text x="215" y="148" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">Strategy</text>
+  <text x="215" y="172" fill="#9da7b3" font-size="13" text-anchor="middle">cases · markets · risk</text>
+  <text x="505" y="125" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">AI Agents</text>
+  <text x="505" y="148" fill="#9da7b3" font-size="13" text-anchor="middle">Claude Code · Codex</text>
+  <text x="505" y="166" fill="#9da7b3" font-size="13" text-anchor="middle">skills · pipelines</text>
+  <text x="360" y="372" fill="#e6edf3" font-size="19" font-weight="700" text-anchor="middle">Learning Design</text>
+  <text x="360" y="394" fill="#9da7b3" font-size="13" text-anchor="middle">vocab · reading · drills</text>
+  <text x="360" y="205" fill="#ffffff" font-size="15" font-weight="800" text-anchor="middle">Tools that help</text>
+  <text x="360" y="224" fill="#ffffff" font-size="15" font-weight="800" text-anchor="middle">people learn &amp;</text>
+  <text x="360" y="243" fill="#ffffff" font-size="15" font-weight="800" text-anchor="middle">decide faster</text>
+</svg>
